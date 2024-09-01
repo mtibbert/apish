@@ -1,5 +1,6 @@
 from unittest import TestCase
 from app import url_prefix
+from app.database.models.language import Language
 from run import app
 import json
 import os
@@ -53,3 +54,14 @@ class TestLanguageBP(TestCase):
             actual = bp.do_get_language_by_id(idx)
             with self.subTest(id=idx):
                 self.assertEqual(self.data_provider[i], actual.json)
+
+    # # Test do_post()
+    #
+    # def test_do_post_status_(self):
+    #     exp_language = "##foo"
+    #     exp_description = "bar"
+    #     item = me = Language(language=exp_language,
+    #                          description=exp_description)
+    #     actual = bp.do_get_language_by_id(idx)
+    #     bp.do_get_language_by_id(idx)
+
