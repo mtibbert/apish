@@ -2,3 +2,6 @@
 /venv/
 /app.db
 /*.iml
+/app/database/*.db
+/app/database/*.db-journal
+/app/scripts/

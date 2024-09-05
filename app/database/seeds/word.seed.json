@@ -1,0 +1,56 @@
+[
+  {
+    "id": "100",
+    "word": "Apish",
+    "definition": "Extremely silly or affected",
+    "language_id": 1
+  },
+  {
+    "id": "102",
+    "word": "Zeugma",
+    "definition": "A figure of speech in which one word has a double meaning within a sentence.",
+    "language_id": 1
+  },
+  {
+    "id": "104",
+    "word": "Melange",
+    "definition": "A mixture of seemingly unrelated things",
+    "language_id": 1
+  },
+  {
+    "id": 200,
+    "word": "애교 (aegyo)",
+    "definition": "Being lovely; describes someone who acts charmingly to appear cute and appealing.",
+    "language_id": 2
+  },
+  {
+    "id": 202,
+    "word": "눈치가 없다 (nunchiga eopda)",
+    "definition": "Clueless; This phrase is used to describe someone who does not read the air; someone who is slow-witted.",
+    "language_id": 2
+  },
+  {
+    "id": 204,
+    "word": "어이없다 (eoieopda)",
+    "definition": "Unbelievable. The meaning slightly changes depending on the situation. It could also mean 'What the hell,' 'I cannot believe it,' 'beyond common sense,' and so on.",
+    "language_id": 2
+  },
+  {
+    "id": 206,
+    "word": "어이없다 (uh-ee-up-da)",
+    "definition": "Without sense; used to describe a situation that is so ridiculous it defies all logic",
+    "language_id": 2
+  },
+  {
+    "id": 300,
+    "word": "Pau Hana",
+    "definition": "Finished work; often refers to happy hour or drinks after work.",
+    "language_id": 3
+  },
+  {
+    "id": 302,
+    "word": "A Hui Hou",
+    "definition": "Until we meet again.",
+    "language_id": 3
+  }
+]
